@@ -64,9 +64,9 @@ This project helped in understanding:
 * Data visualization techniques
 * Extracting meaningful business insights from raw data
 
-## 🙌 Credits
 
-This project is created for learning purposes and is inspired by a YouTube tutorial.
+
+
 
 ---
 
